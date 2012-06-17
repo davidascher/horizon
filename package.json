@@ -1,0 +1,19 @@
+{
+  "name": "sylviatime",
+  "version": "0.0.1",
+  "dependencies": {
+    "hiredis": "0.1.x",
+    "redis": "0.7.x",
+    "connect-redis": "1.4.x",
+    "connect": "1.8.x",
+    "jade": "0.18.x",
+    "cluster": "0.7.x",
+    "express": "2.5.x",
+    "less": "1.1.x",
+    "postprocess": "0.0.x",
+    "connect-cookie-session" : "0.0.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
